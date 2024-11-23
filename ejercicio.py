@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 def mostrar_informacion_alumno():
-    st.title("Información del Alumno")
+    st.title("Información del Alumno:")
     st.markdown('*Legajo:* 58.828')
     st.markdown('*Nombre:* Nicolas Nahuel Alvarez')
     st.markdown('*Comisión:* C2')
