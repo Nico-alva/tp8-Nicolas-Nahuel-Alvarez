@@ -77,7 +77,7 @@ if uploaded_file is not None:
 
             ax.set_xlabel('Fecha')
             ax.set_ylabel('Unidades Vendidas')
-            ax.set_title(f'Evolución de Ventas Mensual')
+            ax.set_title(f'Evolución de Ventas Mensuales')
             ax.legend()
 
             
